@@ -1,5 +1,5 @@
 # ftp_directory_size
-This repository contains a Python script that connects to an FTP server, calculates the total size of a directory, and provides the total size of each file type included in the directory. It utilizes the ´ftplib´ library to interact with the FTP server and retrieve file information. The script can be customized to connect to any FTP server, specify the directory path, and retrieve the file sizes for analysis or reporting purposes.
+This repository contains a Python script that connects to an FTP server, calculates the total size of a directory, and provides the total size of each file type included in the directory. It utilizes the `ftplib` library to interact with the FTP server and retrieve file information. The script can be customized to connect to any FTP server, specify the directory path, and retrieve the file sizes for analysis or reporting purposes.
 
 ## Features
 - Calculate the total size of a directory on an FTP server
